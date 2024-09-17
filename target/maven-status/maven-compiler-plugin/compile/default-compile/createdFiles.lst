@@ -1,0 +1,12 @@
+com\mapping2\Author.class
+com\mapping2\MappingDemo2.class
+com\mapping\MappingDemo.class
+com\hibernate\Address.class
+com\hibernate\App.class
+com\mapping\Question.class
+com\mapping2\Book.class
+com\hibernate\EmbedDemo.class
+com\hibernate\Certificate.class
+com\mapping\Answer.class
+com\hibernate\Student.class
+com\hibernate\FetchDemo.class
